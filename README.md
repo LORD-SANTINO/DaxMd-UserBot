@@ -84,7 +84,7 @@ All automation features can be toggled from the Mini App or via commands in any 
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) – Bot API wrapper
 - [Flask](https://flask.palletsprojects.com/) – Mini App backend
 - [MongoDB](https://www.mongodb.com/) – Database
-– AI & download APIs
+-  AI & download APIs
 
 ## 👨‍💻 Developer
 
