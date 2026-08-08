@@ -77,6 +77,8 @@ All automation features can be toggled from the Mini App or via commands in any 
 - Use `/stop` to **immediately revoke access** and delete your session
 - The bot only responds to commands from the account owner (in private mode)
 
+📄 Read our full [Privacy Policy](https://privacy-policy.daxmd.name.ng).
+
 
 ## 🛠️ Powered By
 
