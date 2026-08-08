@@ -6,7 +6,7 @@
   <a href="https://t.me/daxbots"><img src="https://img.shields.io/badge/Channel-@daxbots-blue?logo=telegram"></a>
   <a href="https://t.me/daxgrp"><img src="https://img.shields.io/badge/Support-@daxgrp-blue?logo=telegram"></a>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen">
-  <img src="https://img.shields.io/badge/Commands-100%2B-orange">
+  <img src="https://img.shields.io/badge/Commands-200%2B-orange">
   <img src="https://img.shields.io/badge/Uptime-24%2F7-success">
 </p>
 
